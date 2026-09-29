@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Threads Account Analysis Tool - Privacy Policy</title>
+  <style>
+    body {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #1f2937;
+      font: 16px/1.6 Arial, sans-serif;
+    }
+    h1, h2 { color: #163a5f; }
+    .notice {
+      padding: 12px 16px;
+      border: 1px solid #e5a000;
+      background: #fff8dc;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective date:</strong> September 29, 2026</p>
+
+  <p class="notice">
+    Before publishing this policy, replace <strong>pyty639504@gmail.com</strong>
+    with a monitored email address.
+  </p>
+
+  <p>
+    This Privacy Policy describes how the Threads Account Analysis Tool
+    ("the Tool") collects, uses, stores, and deletes information.
+  </p>
+
+  <h2>Information the Tool processes</h2>
+  <p>The Tool may process:</p>
+  <ul>
+    <li>Public Threads usernames and public profile information.</li>
+    <li>Public Threads posts and associated public metadata, including post text, timestamps, links, media metadata, topic tags, and public interaction counts when provided by the Threads API.</li>
+    <li>Authentication information supplied by an authorized Tool operator, including a Threads API access token.</li>
+    <li>Operational information needed to diagnose API errors and complete requested exports.</li>
+  </ul>
+
+  <h2>How information is used</h2>
+  <p>
+    Information is used to retrieve public Threads content requested by an
+    authorized operator, organize that content, perform content and activity
+    analysis, and create local reports or spreadsheet exports.
+  </p>
+
+  <h2>Data sharing and sale</h2>
+  <p>
+    The Tool does not sell personal information. Information is not shared
+    with third parties except as necessary to operate services selected by the
+    authorized operator or as required by law.
+  </p>
+
+  <h2>Storage and security</h2>
+  <p>
+    Retrieved information and API responses may be stored locally by the
+    authorized operator. Reasonable measures are used to protect access
+    credentials and collected information. Access tokens are not intentionally
+    included in spreadsheet exports.
+  </p>
+
+  <h2>Retention</h2>
+  <p>
+    Information is retained only as long as needed for the requested analysis
+    or as required by applicable law. The authorized operator controls local
+    report and raw-response retention.
+  </p>
+
+  <h2>Data deletion</h2>
+  <p>
+    To request deletion of information associated with use of the Tool, email
+    <strong>pyty639504@gmail.com</strong>. Requests will be reviewed and
+    completed where applicable. Authorized operators may also delete locally
+    stored workbooks and raw API-response files directly.
+  </p>
+
+  <h2>Third-party services</h2>
+  <p>
+    The Tool uses the Meta Threads API. Meta's own terms and privacy policies
+    apply to information processed by Meta.
+  </p>
+
+  <h2>Changes to this policy</h2>
+  <p>
+    This policy may be updated to reflect changes to the Tool or applicable
+    requirements. The effective date above will be updated when material
+    changes are made.
+  </p>
+
+  <h2>Contact</h2>
+  <p>Email: <strong>pyty639504@gmail.com</strong></p>
+</body>
+</html>
